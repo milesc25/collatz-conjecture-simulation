@@ -2,7 +2,7 @@
 
 A 3D web app visualization of Collatz sequences. Each integer from 1 to N is mapped to a point in space based on its binary structure and logarithm, then animated as it travels its Collatz path toward the attractor at 1.
 
-USE THE WEB APP: 
+USE THE WEB APP: https://collatzconjecture.streamlit.app
 
 ## How it works
 
